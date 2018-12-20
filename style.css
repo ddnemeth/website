@@ -1,0 +1,70 @@
+*{
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid red; */
+}
+
+header,
+section,
+footer {
+  padding: 30px;
+      }
+p {
+  margin: 15px 0;
+  }
+ul, ol {margin: 15px 0;
+  }
+
+h1 {
+ margin-bottom: 90px:px
+    }
+
+
+
+/* danny website-styles */
+
+body{
+    background-color: white;
+ /* color: hotpink; */
+    }
+
+body{
+ background-color: black;
+ color:white;
+ font-family:"Arial";
+ font-size: 51px;
+ margin: 50px;
+   }
+
+h1 {
+  font-family: 'Arial';
+  background-color:green;
+  color: red;
+  font-size: 51px;
+  text-align: left;
+   }
+
+header h1 {
+  background-color: yellow;
+  font-size: 50px;
+  text-align: center;
+          }
+h1{
+  font-weight: Bold;
+  font-style:  italic;
+  text-align: center;
+  }
+
+a {
+  color: red;
+  text-decoration: none;
+  }
+
+a :hover {
+     text-decoration: underline;
+         }
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
